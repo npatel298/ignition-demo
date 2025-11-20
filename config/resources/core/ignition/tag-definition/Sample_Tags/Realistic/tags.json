@@ -8,7 +8,7 @@
     "name": "Realistic0",
     "historyEnabled": true,
     "tagType": "AtomicTag",
-    "engUnit": "kg",
+    "engUnit": "",
     "opcServer": "Ignition OPC UA Server"
   },
   {
