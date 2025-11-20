@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "lock_open.png"
+  ],
+  "attributes": {
+    "width": 16,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2025-11-20T21:54:43Z"
+    },
+    "size": 347,
+    "lastModificationSignature": "f830fdcb2d5fac7e9b1b4b82f8ec20c459f58e266f9b83229c2bce6d11a1e786",
+    "height": 16
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "layout--4-scrollable.png"
+  ],
+  "attributes": {
+    "size": 117336,
+    "lastModificationSignature": "1216da6f02974b43057209c4beb5eca638342b59f15f44ee5d66d04c1c64d4ce",
+    "width": -1,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "quickstart",
+      "timestamp": "2025-11-20T21:57:30Z"
+    },
+    "height": -1
+  }
+}

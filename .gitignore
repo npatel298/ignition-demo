@@ -1,0 +1,6 @@
+# Ignition Gateway data backups
+gateway-data/
+
+# Ignition files
+metricsdb/
+local/quickstart/

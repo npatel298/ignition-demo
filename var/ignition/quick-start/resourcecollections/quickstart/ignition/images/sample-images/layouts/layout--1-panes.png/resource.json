@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "layout--1-panes.png"
+  ],
+  "attributes": {
+    "width": -1,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2024-12-12T22:02:19Z"
+    },
+    "size": 17925,
+    "lastModificationSignature": "61cec8d68e7637c2d270721729dedc66639b22fa4dee91f2c9fe1d42bb5fd498",
+    "height": -1
+  }
+}

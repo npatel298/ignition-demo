@@ -1,0 +1,23 @@
+{
+  "engineId": "sample_sqlite_database",
+  "flavorToStorageKeys": {
+    "audit_record": [
+      {
+        "engineId": "sample_sqlite_database",
+        "sinkId": "sample_audit_profile"
+      }
+    ],
+    "alarm_journal_event": [
+      {
+        "engineId": "sample_sqlite_database",
+        "sinkId": "sample_alarm_journal_profile"
+      }
+    ],
+    "tag_history_data": [
+      {
+        "engineId": "sample_sqlite_database",
+        "sinkId": "sample_sqlite_database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "layout--5-grid.png"
+  ],
+  "attributes": {
+    "width": -1,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2024-12-12T22:02:19Z"
+    },
+    "size": 17672,
+    "lastModificationSignature": "14801c3765cdc9fc2cdcda665ad1dcda3dcf6e9e6a8e54eb373cacc46ceb27b7",
+    "height": -1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "it.json",
+    "es.json",
+    "pt.json",
+    "fr.json",
+    "no.json",
+    "de.json",
+    "en.json",
+    "ko.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "8.3-migration",
+      "timestamp": "2025-04-04T22:37:23Z"
+    },
+    "ignorePunctuation": false,
+    "caseInsensitive": false,
+    "lastModificationSignature": "c86bbcc31a4ea1111984bd7214c6bb4c62f158d14ad910cddb4dcff65860c5a5",
+    "ignoreWhitespace": false,
+    "ignoreTags": false
+  }
+}

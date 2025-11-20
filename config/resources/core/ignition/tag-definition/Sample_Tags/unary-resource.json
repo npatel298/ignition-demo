@@ -1,0 +1,15 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [],
+  "attributes": {
+    "lastModification": {
+      "actor": "quickstart",
+      "timestamp": "2025-11-20T21:57:30Z"
+    },
+    "config": {},
+    "lastModificationSignature": "79e9d681411b4d4b6c1776146cecfc72a31b7250334f401dcf09ad3a91e6e947"
+  }
+}

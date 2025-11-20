@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "layout--3-fluidMax.png"
+  ],
+  "attributes": {
+    "size": 17915,
+    "lastModificationSignature": "5bda20e0994854c70058cbb4be4799775e786dfbe47bd2ca2f195d5deb948785",
+    "width": -1,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "quickstart",
+      "timestamp": "2025-11-20T21:57:30Z"
+    },
+    "height": -1
+  }
+}
